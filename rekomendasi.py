@@ -10,7 +10,7 @@ def load_and_process_data():
     Memuat data dan menghitung statistik agregat untuk setiap produk.
     """
     try:
-        nama_file = r'F:\Perkuliahan\Semester 6\Data Mining\dataset_produk_halal.csv'
+        nama_file = r'dataset_produk_halal.csv'
         df = pd.read_csv(
             nama_file,
             encoding='utf-8-sig',
