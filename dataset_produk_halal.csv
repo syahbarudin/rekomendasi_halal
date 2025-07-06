@@ -1,0 +1,361 @@
+user_id,item_id,rating
+1,Sarung Wadimor,4
+1,Siwak,4
+1,Baju Koko Modern,3
+1,Parfum Non-Alkohol,3
+1,Tasbih Digital,2
+1,Madu Hutan,4
+2,Parfum Non-Alkohol,5
+2,Jilbab Instan,5
+2,Baju Koko Modern,5
+2,Gamis Syar'i,4
+2,Siwak,3
+2,Peci Rajut,3
+2,Kismis Premium,5
+2,Habbatussauda,3
+2,Sarung Wadimor,2
+3,Habbatussauda,4
+3,Air Zamzam,5
+3,Kurma Ajwa,4
+3,Kacang Arab,4
+3,Minyak Zaitun,5
+3,Madu Hutan,5
+3,Jilbab Instan,5
+3,Sarung Wadimor,1
+4,Kismis Premium,4
+4,Madu Hutan,5
+4,Habbatussauda,1
+4,Air Zamzam,4
+4,Minyak Zaitun,3
+4,Peci Rajut,1
+5,Air Zamzam,4
+5,Minyak Zaitun,4
+5,Cokelat Kerikil,5
+5,Madu Hutan,5
+5,Kismis Premium,4
+5,Kacang Arab,5
+5,Kurma Ajwa,3
+5,Tasbih Digital,3
+6,Baju Koko Modern,4
+6,Jilbab Instan,5
+6,Gamis Syar'i,3
+6,Sarung Wadimor,4
+6,Kacang Arab,4
+6,Parfum Non-Alkohol,2
+7,Air Zamzam,3
+7,Kismis Premium,4
+7,Madu Hutan,4
+7,Habbatussauda,4
+7,Baju Koko Modern,3
+7,Minyak Zaitun,1
+8,Siwak,5
+8,Sarung Wadimor,5
+8,Parfum Non-Alkohol,3
+8,Baju Koko Modern,5
+8,Gamis Syar'i,5
+8,Tasbih Digital,4
+8,Peci Rajut,1
+9,Buku Islami,4
+9,Peci Rajut,4
+9,Tasbih Digital,4
+9,Al-Quran Terjemah,4
+9,Sajadah Turki,1
+9,Sarung Wadimor,1
+9,Air Zamzam,1
+10,Kismis Premium,4
+10,Madu Hutan,5
+10,Air Zamzam,5
+10,Minyak Zaitun,5
+10,Baju Koko Modern,5
+10,Cokelat Kerikil,5
+10,Gamis Syar'i,4
+11,Cokelat Kerikil,5
+11,Habbatussauda,5
+11,Kurma Ajwa,3
+11,Air Zamzam,4
+11,Peci Rajut,4
+12,Madu Hutan,5
+12,Kacang Arab,3
+12,Habbatussauda,3
+12,Kismis Premium,4
+12,Kurma Ajwa,4
+12,Cokelat Kerikil,5
+12,Peci Rajut,3
+12,Sarung Wadimor,5
+12,Minyak Zaitun,5
+13,Parfum Non-Alkohol,4
+13,Baju Koko Modern,4
+13,Gamis Syar'i,4
+13,Sarung Wadimor,3
+13,Sajadah Turki,3
+13,Jilbab Instan,4
+14,Cokelat Kerikil,3
+14,Habbatussauda,5
+14,Kurma Ajwa,3
+14,Minyak Zaitun,5
+14,Air Zamzam,4
+14,Madu Hutan,5
+14,Kismis Premium,5
+14,Kacang Arab,4
+14,Al-Quran Terjemah,4
+15,Buku Islami,4
+15,Sajadah Turki,5
+15,Peci Rajut,5
+15,Al-Quran Terjemah,2
+15,Tasbih Digital,4
+15,Cokelat Kerikil,4
+16,Al-Quran Terjemah,3
+16,Peci Rajut,4
+16,Tasbih Digital,4
+16,Sajadah Turki,5
+16,Buku Islami,3
+16,Air Zamzam,5
+16,Kismis Premium,2
+17,Habbatussauda,5
+17,Kismis Premium,4
+17,Kurma Ajwa,5
+17,Minyak Zaitun,4
+17,Air Zamzam,4
+17,Kacang Arab,4
+17,Sajadah Turki,3
+17,Siwak,3
+18,Sarung Wadimor,4
+18,Siwak,5
+18,Jilbab Instan,5
+18,Parfum Non-Alkohol,3
+18,Kacang Arab,3
+18,Tasbih Digital,3
+18,Gamis Syar'i,1
+19,Peci Rajut,4
+19,Tasbih Digital,3
+19,Sajadah Turki,5
+19,Siwak,1
+19,Cokelat Kerikil,5
+19,Al-Quran Terjemah,4
+20,Cokelat Kerikil,3
+20,Kismis Premium,5
+20,Kacang Arab,3
+20,Minyak Zaitun,4
+20,Kurma Ajwa,4
+20,Buku Islami,2
+20,Gamis Syar'i,5
+20,Tasbih Digital,2
+20,Baju Koko Modern,1
+21,Parfum Non-Alkohol,5
+21,Jilbab Instan,5
+21,Siwak,4
+21,Baju Koko Modern,5
+21,Sarung Wadimor,3
+21,Tasbih Digital,2
+21,Peci Rajut,2
+21,Minyak Zaitun,1
+21,Madu Hutan,2
+22,Buku Islami,3
+22,Sajadah Turki,4
+22,Peci Rajut,4
+22,Tasbih Digital,4
+22,Parfum Non-Alkohol,2
+22,Habbatussauda,1
+22,Siwak,3
+23,Minyak Zaitun,5
+23,Air Zamzam,3
+23,Habbatussauda,3
+23,Kacang Arab,5
+23,Kurma Ajwa,3
+23,Kismis Premium,2
+23,Cokelat Kerikil,2
+23,Tasbih Digital,2
+24,Gamis Syar'i,3
+24,Parfum Non-Alkohol,4
+24,Sarung Wadimor,3
+24,Siwak,3
+24,Buku Islami,3
+24,Kurma Ajwa,4
+25,Kurma Ajwa,5
+25,Kismis Premium,5
+25,Cokelat Kerikil,5
+25,Habbatussauda,5
+25,Air Zamzam,3
+25,Minyak Zaitun,3
+25,Kacang Arab,4
+25,Gamis Syar'i,4
+26,Kacang Arab,5
+26,Habbatussauda,5
+26,Madu Hutan,5
+26,Air Zamzam,4
+26,Kurma Ajwa,4
+26,Cokelat Kerikil,4
+26,Minyak Zaitun,2
+26,Jilbab Instan,1
+27,Sajadah Turki,4
+27,Al-Quran Terjemah,4
+27,Tasbih Digital,4
+27,Peci Rajut,4
+27,Madu Hutan,1
+27,Gamis Syar'i,3
+27,Baju Koko Modern,3
+27,Buku Islami,5
+28,Peci Rajut,4
+28,Al-Quran Terjemah,5
+28,Tasbih Digital,5
+28,Siwak,3
+28,Sajadah Turki,3
+28,Minyak Zaitun,2
+29,Al-Quran Terjemah,5
+29,Peci Rajut,4
+29,Buku Islami,4
+29,Sajadah Turki,4
+29,Tasbih Digital,3
+29,Madu Hutan,3
+29,Air Zamzam,4
+30,Parfum Non-Alkohol,5
+30,Baju Koko Modern,3
+30,Sarung Wadimor,3
+30,Jilbab Instan,3
+30,Habbatussauda,3
+30,Cokelat Kerikil,2
+30,Madu Hutan,1
+31,Cokelat Kerikil,4
+31,Kurma Ajwa,3
+31,Kacang Arab,4
+31,Air Zamzam,4
+31,Madu Hutan,5
+31,Minyak Zaitun,4
+31,Habbatussauda,2
+31,Tasbih Digital,3
+31,Al-Quran Terjemah,5
+32,Buku Islami,4
+32,Al-Quran Terjemah,4
+32,Sajadah Turki,3
+32,Tasbih Digital,5
+32,Parfum Non-Alkohol,2
+32,Minyak Zaitun,4
+32,Madu Hutan,5
+32,Peci Rajut,1
+33,Peci Rajut,3
+33,Al-Quran Terjemah,5
+33,Sajadah Turki,3
+33,Tasbih Digital,5
+33,Minyak Zaitun,1
+33,Air Zamzam,3
+34,Gamis Syar'i,5
+34,Siwak,5
+34,Jilbab Instan,3
+34,Baju Koko Modern,3
+34,Madu Hutan,3
+34,Al-Quran Terjemah,1
+34,Minyak Zaitun,4
+35,Al-Quran Terjemah,5
+35,Buku Islami,3
+35,Peci Rajut,3
+35,Tasbih Digital,3
+35,Sajadah Turki,5
+35,Kismis Premium,1
+36,Gamis Syar'i,4
+36,Siwak,5
+36,Sarung Wadimor,5
+36,Parfum Non-Alkohol,4
+36,Baju Koko Modern,2
+36,Jilbab Instan,5
+36,Minyak Zaitun,5
+36,Kurma Ajwa,2
+37,Peci Rajut,5
+37,Al-Quran Terjemah,3
+37,Tasbih Digital,3
+37,Buku Islami,3
+37,Sajadah Turki,3
+37,Habbatussauda,4
+38,Jilbab Instan,5
+38,Sarung Wadimor,4
+38,Siwak,3
+38,Parfum Non-Alkohol,3
+38,Baju Koko Modern,4
+38,Gamis Syar'i,1
+38,Sajadah Turki,4
+38,Peci Rajut,1
+38,Kacang Arab,5
+39,Al-Quran Terjemah,3
+39,Buku Islami,4
+39,Sajadah Turki,4
+39,Peci Rajut,4
+39,Kismis Premium,1
+40,Al-Quran Terjemah,3
+40,Sajadah Turki,5
+40,Tasbih Digital,3
+40,Peci Rajut,4
+40,Buku Islami,5
+40,Kurma Ajwa,5
+40,Sarung Wadimor,3
+41,Tasbih Digital,4
+41,Sajadah Turki,5
+41,Buku Islami,4
+41,Peci Rajut,3
+41,Kacang Arab,4
+41,Cokelat Kerikil,4
+41,Madu Hutan,1
+41,Al-Quran Terjemah,1
+42,Al-Quran Terjemah,3
+42,Sajadah Turki,3
+42,Buku Islami,5
+42,Peci Rajut,3
+42,Tasbih Digital,3
+42,Kacang Arab,2
+42,Sarung Wadimor,5
+42,Madu Hutan,2
+43,Kacang Arab,4
+43,Minyak Zaitun,3
+43,Cokelat Kerikil,4
+43,Air Zamzam,5
+43,Kurma Ajwa,5
+43,Madu Hutan,1
+43,Sajadah Turki,4
+44,Sajadah Turki,3
+44,Tasbih Digital,5
+44,Buku Islami,5
+44,Al-Quran Terjemah,5
+44,Baju Koko Modern,4
+44,Siwak,2
+44,Kurma Ajwa,2
+45,Habbatussauda,5
+45,Air Zamzam,4
+45,Cokelat Kerikil,4
+45,Minyak Zaitun,5
+45,Kurma Ajwa,4
+45,Madu Hutan,4
+45,Al-Quran Terjemah,1
+45,Sajadah Turki,3
+46,Kacang Arab,4
+46,Cokelat Kerikil,4
+46,Kismis Premium,3
+46,Kurma Ajwa,4
+46,Minyak Zaitun,4
+46,Peci Rajut,1
+46,Madu Hutan,1
+46,Baju Koko Modern,4
+47,Madu Hutan,4
+47,Kurma Ajwa,3
+47,Kacang Arab,5
+47,Minyak Zaitun,5
+47,Air Zamzam,3
+47,Cokelat Kerikil,4
+47,Tasbih Digital,1
+47,Gamis Syar'i,4
+47,Baju Koko Modern,3
+48,Siwak,4
+48,Jilbab Instan,4
+48,Parfum Non-Alkohol,4
+48,Gamis Syar'i,4
+48,Kurma Ajwa,1
+48,Peci Rajut,4
+49,Sajadah Turki,4
+49,Al-Quran Terjemah,3
+49,Tasbih Digital,5
+49,Buku Islami,5
+49,Kurma Ajwa,3
+49,Parfum Non-Alkohol,4
+50,Sajadah Turki,3
+50,Buku Islami,3
+50,Peci Rajut,4
+50,Al-Quran Terjemah,3
+50,Siwak,4
+50,Tasbih Digital,2
