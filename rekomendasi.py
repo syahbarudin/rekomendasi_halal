@@ -27,6 +27,7 @@ def tampilkan_ikon_github():
     .github-svg {{
         width: 25px;
         height: 25px;
+        left: 10px
     }}
     .github-text {{
         font-size: 12px;
