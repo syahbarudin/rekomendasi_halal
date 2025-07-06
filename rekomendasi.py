@@ -9,7 +9,7 @@ from collections import Counter
 def tampilkan_ikon_github():
     """Menampilkan ikon GitHub yang menarik di pojok kiri bawah."""
     # GANTI DENGAN URL GITHUB ANDA
-    github_url = "https://github.com/username/repo"
+    github_url = "https://github.com/syahbarudin/rekomendasi_halal"
     
     # CSS untuk styling dan animasi
     st.markdown(f"""
@@ -19,6 +19,9 @@ def tampilkan_ikon_github():
         bottom: 25px;
         left: 25px; /* <--- PERUBAHAN DI SINI */
         z-index: 1000;
+        display: flex; 
+        flex-direction: column; 
+        align-items: center; 
         transition: transform 0.2s ease-in-out;
     }}
     #github-link:hover {{
