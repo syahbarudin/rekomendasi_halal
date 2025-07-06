@@ -17,7 +17,7 @@ def tampilkan_ikon_github():
     #github-link {{
         position: fixed;
         bottom: 25px;
-        right: 25px;
+        left: 25px;
         z-index: 1000;
         transition: transform 0.2s ease-in-out;
     }}
@@ -25,8 +25,8 @@ def tampilkan_ikon_github():
         transform: scale(1.15);
     }}
     .github-svg {{
-        width: 40px;
-        height: 40px;
+        width: 25px;
+        height: 25px;
     }}
     </style>
     
