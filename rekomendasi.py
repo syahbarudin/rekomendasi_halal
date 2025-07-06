@@ -43,7 +43,6 @@ def tampilkan_ikon_github():
     </style>
     
     <div id="github-container">
-        {/* --- PERUBAHAN DI SINI --- */}
         <p class="github-text">Click here to view source code </p>
         
         <a href="{github_url}" target="_blank" id="github-link">
