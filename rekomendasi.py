@@ -138,3 +138,5 @@ if df is not None:
                     )
                 else:
                     st.info("Aneh, sepertinya tidak ada pengguna yang menilai produk ini.")
+
+tampilkan_ikon_github()
